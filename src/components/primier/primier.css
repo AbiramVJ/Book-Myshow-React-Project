@@ -1,0 +1,7 @@
+.Card-group-main{
+    display: flex;
+    gap: 20px;
+    border-radius: 50px;
+    justify-content: space-around;
+    border-color: white;
+}

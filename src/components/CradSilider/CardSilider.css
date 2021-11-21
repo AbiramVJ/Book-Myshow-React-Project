@@ -1,0 +1,22 @@
+.Card-group-main{
+    display: flex;
+    gap: 20px;
+    border-radius: 50px;
+    justify-content: space-around;
+    border-color: white;
+}
+.header-Text{
+    color: rgb(44, 42, 42);
+    margin: 10px;
+    
+    padding-top: 10px;
+    font-weight: 500;
+}
+/* style={{ display:"flex", gap:"20px",borderRadius:"50px" , justifyContent:"space-around", borderBlockColor:"white" }} */
+/* .Card-imag{
+    border-radius: 20%;
+    border-top-left-radius: 20%;
+    height: 100%;
+}
+    
+    style={{ borderRadius:"20px", height:"100%" }} */

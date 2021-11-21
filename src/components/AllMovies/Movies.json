@@ -1,0 +1,40 @@
+[
+  {
+    "id": "1",
+    "image": "https://m.media-amazon.com/images/M/MV5BZTc4YWY5MzAtOTc4Zi00NDVmLThlMGItYjliOGNkYmM3NDBmXkEyXkFqcGdeQXVyOTk3NTc2MzE@._V1_.jpg",
+    "title": "Bell Bottom",
+    "actor": " vijay"
+  },
+  {
+    "id": "2",
+    "image": "https://m.media-amazon.com/images/M/MV5BZTc4YWY5MzAtOTc4Zi00NDVmLThlMGItYjliOGNkYmM3NDBmXkEyXkFqcGdeQXVyOTk3NTc2MzE@._V1_.jpg",
+    "title": "Thuppakki",
+    "actor": " Suriya"
+  },
+  {
+    "id": "3",
+    "image": "https://m.media-amazon.com/images/M/MV5BZTc4YWY5MzAtOTc4Zi00NDVmLThlMGItYjliOGNkYmM3NDBmXkEyXkFqcGdeQXVyOTk3NTc2MzE@._V1_.jpg",
+    "title": "Jilla",
+    "actor": " Karthik"
+  },
+  {
+    "id": "4",
+    "image": "https://m.media-amazon.com/images/M/MV5BZTc4YWY5MzAtOTc4Zi00NDVmLThlMGItYjliOGNkYmM3NDBmXkEyXkFqcGdeQXVyOTk3NTc2MzE@._V1_.jpg",
+    "title": "Jilla",
+    "actor": " vimal"
+  },
+  {
+    "id": "5",
+    "image": "https://m.media-amazon.com/images/M/MV5BZTc4YWY5MzAtOTc4Zi00NDVmLThlMGItYjliOGNkYmM3NDBmXkEyXkFqcGdeQXVyOTk3NTc2MzE@._V1_.jpg",
+    "title": "Jilla",
+    "actor": " Ajith"
+  },
+  {
+    "id": "6",
+    "image": "https://m.media-amazon.com/images/M/MV5BZTc4YWY5MzAtOTc4Zi00NDVmLThlMGItYjliOGNkYmM3NDBmXkEyXkFqcGdeQXVyOTk3NTc2MzE@._V1_.jpg",
+    "title": "Jilla",
+    "actor": " Abiram"
+  }
+
+]
+
