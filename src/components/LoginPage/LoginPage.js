@@ -22,21 +22,15 @@ function LoginPage() {
         }
         console.log(userDetail);
 
-        await axios.post('https://bmsbackendabi.herokuapp.com/user-register',userDetail).then(()=>{Swal.fire({
-          title: '<strong>SUBMITTED</strong>',
-            icon: 'success',      
-            showCloseButton: true,
-          }); 
+        const respons = await axios.post("https://bmsbackendabi.herokuapp.com/user-register", userDetail)
+        Swal.fire({
+          title: '<strong>Submited</strong>',
+          icon: 'success',
+         
+          showCloseButton: true,
           
-    }).catch((err)=>Swal.fire({
-        title: `<strong>${err.message}</strong>`,
-        icon: 'error',
-       showCloseButton: true,
-    }))
-        //console.log(response);
+        })
 
-        
-          
     }
 
   return (
