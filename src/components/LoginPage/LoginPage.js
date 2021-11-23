@@ -22,9 +22,8 @@ function LoginPage() {
         }
         console.log(userDetail);
 
-        const response = await axios.post('https://bmsbackendabi.herokuapp.com/user1-register',userDetail)
-        .then(()=>{Swal.fire({
-            title: '<strong>SUBMITTED</strong>',
+        const response = await axios.post('https://bmsbackendabi.herokuapp.com/user1-register',userDetail).then(()=>{Swal.fire({
+          title: '<strong>SUBMITTED</strong>',
             icon: 'success',      
             showCloseButton: true,
           }); 
