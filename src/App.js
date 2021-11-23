@@ -30,7 +30,7 @@ function App() {
           <Route exact path="/content"><ContentContainer /></Route>
           <Route exact path="/allmovies"><AllMoviesFetch/></Route>
            <Route exact path="/allmovies/singlemovie/:movie"><SingleMovieFetch/></Route> 
-           <Route exact path="/loginpage"><LoginPage/></Route> 
+           <Route exact path="/user-register"><LoginPage/></Route> 
         </Switch>
         <Footer />
       </Router>

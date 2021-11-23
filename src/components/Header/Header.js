@@ -71,7 +71,7 @@ function Header() {
                 </a>{" "}
               </Col>
               <Col>
-                <a href="/loginpage" className="nav-sub-bar-text" style={{color:"white"}}>
+                <a href="/user-register" className="nav-sub-bar-text" style={{color:"white"}}>
                   Registraion
                 </a>{" "}
               </Col>
