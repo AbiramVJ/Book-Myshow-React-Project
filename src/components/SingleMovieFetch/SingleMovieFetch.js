@@ -40,7 +40,7 @@ function SingleMovieFetch() {
         <Row>
             {Singledata.map((movie) =>{  
                 return(                            
-                <Col  id={movie._id} key={movie._id} xs={6} md={4} lg={3} style={{ marginBottom: "2%" }}>
+                <Col  id={movie._id} key={movie._id} xs={4} md={6} lg={3} style={{ marginBottom: "2%" }}>
                     <Card >
                     <Card.Img variant="top" src={movie.image} />
                     <Card.Body>
